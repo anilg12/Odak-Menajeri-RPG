@@ -8,9 +8,9 @@
 <br>
 <br>
 
-<a href="https://github.com/anilg12/Emberwise/releases/latest/download/Emberwise-Setup.exe"><img src="media/btn-windows.svg" alt="Windows için indir" height="64"></a>&nbsp;
-<a href="https://github.com/anilg12/Emberwise/releases/latest/download/Emberwise-mac-arm64.dmg"><img src="media/btn-mac-arm.svg" alt="macOS (Apple Silicon M1–M5) için indir" height="64"></a>&nbsp;
-<a href="https://github.com/anilg12/Emberwise/releases/latest/download/Emberwise-mac-x64.dmg"><img src="media/btn-mac-intel.svg" alt="macOS (Intel) için indir" height="64"></a>
+<a href="https://github.com/anilg12/Emberwise/releases/latest/download/Emberwise-Setup.exe"><img src="media/btn-windows.svg" alt="Windows için indir" height="56"></a>&nbsp;
+<a href="https://github.com/anilg12/Emberwise/releases/latest/download/Emberwise-mac-arm64.dmg"><img src="media/btn-mac-arm.svg" alt="macOS (Apple Silicon M1–M5) için indir" height="56"></a>&nbsp;
+<a href="https://github.com/anilg12/Emberwise/releases/latest/download/Emberwise-mac-x64.dmg"><img src="media/btn-mac-intel.svg" alt="macOS (Intel) için indir" height="56"></a>
 
 <sub>Ücretsiz · Hesap yok, reklam yok · İnternet bağlantısı gerekmez · <a href="https://github.com/anilg12/Emberwise">Kaynak kodu</a> · <a href="https://github.com/anilg12/Emberwise/releases">Tüm sürümler</a></sub>
 
