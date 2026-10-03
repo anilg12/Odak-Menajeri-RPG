@@ -1,3 +1,5 @@
+> 🔥 **Bu proje yeniden doğdu: [Emberwise](https://github.com/anilg12/Emberwise)** — Windows ve macOS (M1–M5) için baştan tasarlanan, tamamen çevrimdışı çalışan yeni sürüm. Odak zamanlayıcısı, günlük görevler, dükkân, başarımlar, aydınlık/koyu tema, Türkçe & English. **[İndir →](https://github.com/anilg12/Emberwise/releases/latest)**
+
 [README.md](https://github.com/user-attachments/files/28440964/README.md)
 # 🎮 Odak Menajeri RPG – Zaman Yönetimini Oyunlaştır!
 
