@@ -175,6 +175,6 @@ Zamanı yönetmek artık sıkıcı değil.
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/an%C4%B1l-g%C3%BCl-753417249) · [Emberwise](https://github.com/anilg12/Emberwise) · [GitHub](https://github.com/anilg12)
+[LinkedIn](https://www.linkedin.com/in/anilg12/) · [Emberwise](https://github.com/anilg12/Emberwise) · [GitHub](https://github.com/anilg12)
 
 </div>
